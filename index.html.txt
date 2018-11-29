@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shawna Rowe Portfolio</title>
+</head>
+<div id="header-title">
+  <div class="logo-title">
+    <img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/1475983_1438705209680717_1739123961_n.jpg?_nc_cat=100&_nc_ht=scontent-iad3-1.xx&oh=7022984df92b734139900bd9fb07df0f&oe=5C51147B" alt="Shawna Rowe I.T. Services Logo" class="logo-img"></img>
+    <h1>Shawna Rowe Portfolio</h1>
+  </div>
+  <nav><a href="#resume"> Resume</a> | <a href="#website-design">Website Design</a> | <a href="#logo-design-content">Graphic Design</a> | <a href="#contact">Contact Me </a></nav>
+</div>
+<!--end of header -->
+<div class="content">
+  <!--Begin content section for resume -->
+  <div id="resume">
+    <div class="professional_details">
+      <h3>Professional Details</h3>
+      <img src="https://media.licdn.com/dms/image/C5603AQEByV-p8kgXzg/profile-displayphoto-shrink_200_200/0?e=1543449600&v=beta&t=uq0-OlI2DVV4ik0Uf7fbrfF9m2ItyfD58O8GQc3X7mg" class="professional_image" align="middle" alt="Headshot of Shawna Rowe" />
+      <div class="detail">
+        <h4>Name:</h4> Shawna
+      </div>
+      <div class="detail">
+        <h4>Location:</h4> Pulaski, Va.
+      </div>
+      <div class="detail">
+        <h4>Degree:</h4> Bachelor of Science in Information Technology concentration in Software Engineering
+      </div>
+      <!--end of detail-->
+
+    </div>
+    <!--end of professional detail-->
+
+    <!--start about me-->
+    <div class="aboutme">
+      <!--header for about me-->
+      <div id="about_header">
+        <h3>About Me</h3>
+      </div>
+      <!--end about me header-->
+      <div id="about_data">
+        <div id="about_left">
+          <div id="left1l">
+            <h4> Name: </h4>
+            <h4> Location: </h4>
+            <h4> Degree: </h4>
+            <h4> Email: </h4>
+          </div>
+          <div id="left1r">
+            <p> Shawna </p>
+            <p>Pulaski, VA </p>
+            <p>BSIT</p>
+            <p> <a href="mrsolpwebs@gmail.com">mrsolpwebs @ gmail.com</a> </p>
+          </div>
+        </div>
+        <div id="about_right">
+          <div id="about_right1">
+            <h4>Experience: </h4>
+            <h4>Career-Level: </h4>
+            <h4>Website: </h4>
+          </div>
+          <div id="about_right2">
+            <p>6 years </p>
+            <p> Entry-Mid Level</p>
+            <p> <a href="https://codepen.io/shawna-rowe">Shawna on Codepen</a>
+          </div>
+        </div>
+      </div>
+      <p> I'm a web developer, logo creator, and photographer. It all started as a passion to help my dad continue on his website that he began back in 1995. I spend most of my days building websites or learning new exciting technology. </p>
+      <p> Aside from constantly learning new things and building websites I am a mom of 3 very active boys which gives me plenty of time to hone in my skills in self-taught photography. However, it is not as much fun as design.</p>
+      <p> Something cool I learned recently the heart beat completely done in CSS. </p>
+      <div id="heartbeat">
+        <div class="back"></div>
+        <div class="heart"></div>
+   <p>Last, but certainly not least:<span> I love to give back to my community at every chance! </span> If you are with a non-profit or charity organization, please contact me with details of your project and I’ll see what I can do for you.
+      </div>
+    </div>
+    <!--end about me content-->
+
+  </div>
+  <!--end of resume -->
+
+  <!--Begin content section for website design -->
+  <div id="website-design">
+    <h3> Some of my work:</h3>
+    <h4><a href="https://greenacresllc.com/" target="_blank">Green Acres Landscaping </a>
+      <h4>
+        <div id="website-image">
+
+          <div id="before">
+            <h5>Before:</h5>
+            <img src="https://lh3.googleusercontent.com/glD7gRyswKHMKcZSb8nvU2P7BsbjQc5XWRG8MSAxdLGbgJ9B42_WbHUrv93lpnZLTF_Md9tTho847PEk8F2HrptdRPhcJ9xoht9O_apzEKdwbPlk_bQTPiwIAYPahz8dTZREthCoEL-0NSYbPyIw3s2QRraVhoF1yNWJKnJjwP2tv5r3a3m0u_aLb3ZSiiF5WT-u1GHUBZfoVCfM9mahlQdlOFjHMmp3GyCQaOD-Q6DfCiycEOKgA5Qx9JcGJyWI8dAcrLowScIV_9lDxc9snJBpD7xvT3jtkQ9wfNEXnI6qdWWtrzayTTXZPT2sU0IEQ-BsuTP8V28q934s7bD7kVBVSgjscQzYzk6vwbKEyWXjsyFroZ_gcKoH1SZBzIz72jMD2Kbo13D49bq2z7tufOoAq-xj9gxc48Ep4yeTeasHvbvU4NyduAzjQIJPR8octeWqzbn-2J3PMXdqA_G7Rlok4WCXOHHqWyRMuQkEQJhunaBdRR6CpF8nl8U-qRXyEV76FL7axI31drVW3IWp8N3eJsK52XAnrjaXZzV7_mLyVG5I0DtF_MrJHva5RChVeQQ0z2IqnEvSm4vjlvbW5WHNTsE3AeJNXS2lB3gfYU7RPvvJWyRaRBWvgU60Rx9SbMWUI5eCnvZfnGNBcLEnuoZQXqtboqd0SBLetHjuyYZZOrFaAUioDJjx=w356-h325-no"
+              alt="Image from wayback machine showing details of website prior to redesign" id="before-img"></div>
+          <div id="after">
+            <h5>After:</h5>
+            <img src="https://lh3.googleusercontent.com/RSH4yij98L1baoRFTKgQ4p9-mBVSRT3aQsA2eW3PjGzAFXvTJX09GVRdxjQUIYWSgKQxnNR1YrmmtesOFHx8wqkEDrFLCtHoVcZJyhtNWvGZe7SJydeP65uftMrTwXC-abLCw-syvQ3N1LGzWfUYldCGixFWpT40IGWxqyvHcj5MtFB3rPw7ugoC-yd8Ic95ZSqJbz-b02B9Nk1AHQyooks2JsmDnpeN4GVTGw7fbmlHNJEdKmpzAScsLTxXumojvDxfbNDs-JLjw81gWSwgSO8h0DvvJSb-6fS8bsg-UAUry8sgIoPuZkZyi_NS0Evo_hWFgQ8PJk9iFx2CfT9i3_T4OyIvXt881auj6ZI2yEImEKmyrawdGNAw6YvcPKtJcLMxUV7ncMtgQFprYSaUcQxsziD5-haedNXFnO4_C-vEvRAVprODvNgtqXn5EW5Yz6cCCns2O9BcCpH2PU9o3Ay_DCdUmxPbG4zI5d19Muvl9lIsDqMfyvWr-O2Vj_Chs_hqAwsT06gSZatzzLLkKiNY4ZiP9TRGeXgKqEbFeBTePGgyjUFGAB1WOFttovOK7sSCZFnOMrjo9zJrWUu9fEV28u7GKflIG2FdmPf8BRLMdQiXdoQoQBTwqeywezA=w353-h325-no"
+              alt="Screenshot of the new redesign Green Acres Landscaping LLC." </div>
+          </div>
+        </div>
+        <h4> <a href="http://windhamtattooandbodypiercing.com/" target="_blank">Windham Tattoo and Body Piercing </a>
+          </h4>
+            <img src="https://lh3.googleusercontent.com/8kEh_oZYX3NJViQ0pwPSmP6xsQYiv3hFk7A8o22HZXrZ5CWgDCzlXYeHCCRiRR3WZJnBh8QVB8K8tWLK6x4UzS3iTqBSg8WfOpu65hTshpWyj7Li5_la-Kty3tTmjSFbar-Q7MKTy9O172fN8bZ0J_1XQKX83pZx-mAwdJdMS_8u6nQ5jEHucxxB-qQmSCHhR3wJB70MvtzVxVbw8KDkCOeV2Ioa_xIXrRGgoHCyKm-D2FG3SiBxlRHp7_TbFYa94eHXN2-bmOQ5RyAtv8acsK0iXakQYEDbGnAeQPPI87ejr12KCXBJtawJOQkZHnmVWBbOw3yLrqNaeMfpPLWbVqj5PYCtQ8hOONvYfH_oZbLRDvm0W8f8jnfDpfJth2GKHO0wbQyNMI7zQzDBMZlSXIkPSJml7ziwRD9g-g00UHn7-kqnMGYbbbktmATvq4hCMCCLbFA4lFjeWeuL7FXp6aj1KNuK2mZ2fRjhjmR8aHranHymoow0kGulo-UNxLo1eW-xgppy2UsaUXCMb_9sTqukOyg4-Rc3xfbpo2ixz6a14yEoKL6i5gyp_xzzJkgrrIbllJLcnYJ_C1nKMrcYl4pMGeHwPXtnBdq8F3I1jZRC9R-cA24rxT1UY-A0zLk=w328-h371-no"
+              alt="Design for Windham tattoo and body piercing">
+      <h4> Amber Uleda Photography </h4>
+<img src="http://mediaprocessor.websimages.com/width/580/shawnaroweportfolio.webs.com/Capture-1.JPG" alt="Amber Uleda Photography Website Redesign" class="image">       
+        </div>
+
+  <!--end of website design -->
+
+  <!--Begin content section for logo design -->
+  <div id="logo-design-content">
+    <h4>Logo design</h4>
+   <a href="https://www.hopehavengospelmission.org/contact-us"><img src="https://static.wixstatic.com/media/029bc1_998e0278e89240a7b04c4e8ee6446e4d~mv2.png/v1/crop/x_90,y_0,w_843,h_311/fill/w_339,h_123,al_c,q_80,usm_0.66_1.00_0.01/029bc1_998e0278e89240a7b04c4e8ee6446e4d~mv2.webp"></a>
+    <img src="https://mediaprocessor.websimages.com/width/180/shawnaroweportfolio.webs.com/twanya.jpg">
+    <img src="https://mediaprocessor.websimages.com/width/164/shawnaroweportfolio.webs.com/barbie.JPG">
+    <img src="https://lh4.googleusercontent.com/EhhHRPfduWgmqc6JTNuuISD8qbBoKMJgnKTUMPDCoSRyIQ9Oz6-aO8qG8aE" height="294px" >
+  </div>
+
+  <!--end of logo design -->
+
+
+
+  <!--Begin content section for contact -->
+  <div id="contact">
+ <div id="social" class="social">
+      <p>Find me on <a href="https://github.com/ShawnainMaine" target="_blank" alt="github" id="profile-link"><img src="https://s15.postimg.cc/5hiaqbznf/github.png" border="0" alt="github"
+></a><a href=" https://www.linkedin.com/in/shawna-rowe-933b28160/"target="_blank"
+          alt="linked in"><img src="https://s15.postimg.cc/5hiaqmx63/In-2_C-59px-_TM.png" border="0" alt="In-2_C-59px-_TM"/></a></p>
+    </div>
+    
+    
+    
+  </div>
+  <!--end of contact -->
+
+</div>
+<!--end of content-->
+
+</html>
